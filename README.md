@@ -9,3 +9,5 @@
 <br/>Hint 2: The Interval Length of Beta Function</br>
 <br/>hint 3: Margin(find the letter you feel strange)</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
+<br/>保护计划更新记录：</br>
+<br/>20191122：计算机—算法，数学-数学分析</br>
