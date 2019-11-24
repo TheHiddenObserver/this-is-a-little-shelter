@@ -11,3 +11,4 @@
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
 <br/>20191122：计算机—算法，数学-数学分析</br>
+<br/>20191124：数学-生存分析，数学-概率论与数理统计</br>
