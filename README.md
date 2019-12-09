@@ -7,7 +7,7 @@
 <br/>密钥由四个字符组成，仅包括小写字母和阿拉伯数字</br>
 <br/>Hint 1：First Character of Title in Markdown(Look down at your keyboard!)</br>
 <br/>Hint 2: The Interval Length of Beta Function</br>
-<br/>hint 3: Margin(find the letter you feel strange)</br>
+<br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
 <br/>20191209：数学-数理逻辑</br>
