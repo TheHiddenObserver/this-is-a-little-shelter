@@ -10,7 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
-<br/>20191227：经济学-宏观经济学 计算机-数据结构</br>
+<br/>20191227：经济学-宏观经济学 计算机-数据结构 数学-运筹学</br>
 <br/>20191209：数学-数理逻辑</br>
 <br/>20191202：数学-机器学习</br>
 <br/>20191129：数学-抽象代数 数学-机器学习</br>
