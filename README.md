@@ -10,7 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
-<br/>20200119：数学-离散数学</br>
+<br/>20200119：数学-离散数学 数学-统计学原理</br>
 <br/>20200117：数学-变分法 数学-模糊数学</br>
 <br/>20200116：计算机-数据结构</br>
 <br/>20200115：经济学-计量经济学</br>
