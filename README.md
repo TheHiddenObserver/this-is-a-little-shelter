@@ -10,7 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
-<br/>20200124：经济学-金融经济学 经济学-投资学 数学-非参数统计</br>
+<br/>20200124：经济学-金融经济学 经济学-投资学 数学-贝叶斯统计</br>
 <br/>20200123：经济学-公共经济学 经济学-金融经济学</br>
 <br/>20200122：数学-多元统计分析</br>
 <br/>20200121：数学-数理统计</br>
