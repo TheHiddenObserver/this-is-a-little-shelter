@@ -10,6 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
+<br/>20200131：经济学-博弈论</br>
 <br/>20200130：数学-运筹学</br>
 <br/>20200128：数学-抽样技术</br>
 <br/>20200125：数学-数理统计 数学-非参数统计</br>
