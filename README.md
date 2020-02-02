@@ -10,6 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
+<br/>20200202：数学-随机过程</br>
 <br/>20200201：数学-实变函数</br>
 <br/>20200131：经济学-博弈论</br>
 <br/>20200130：数学-运筹学</br>
