@@ -10,7 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
-<br/>20200620：数学-偏微分方程 数学-概率论与数理统计</br>
+<br/>20200620：数学-偏微分方程 数学-概率论与数理统计 数学-随机过程</br>
 <br/>20200619：数学-数值分析</br>
 <br/>20200617：经济学-计量经济学 数学-代数图论</br>
 <br/>20200613：数学-矩阵分析 数学-泛函分析 数学-概率论</br>
