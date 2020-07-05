@@ -10,7 +10,7 @@
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>保护计划更新记录：</br>
-<br/>20200705：计算机-算法</br>
+<br/>20200705：计算机-算法 计算机-python</br>
 <br/>20200704：计算机-数据结构 计算机-算法</br>
 <br/>20200703：数学-数理统计 经济学-计量经济学</br>
 <br/>20200701：数学-随机过程</br>
