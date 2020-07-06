@@ -1,4 +1,4 @@
-# This Is A Little Shelter
+## This Is A Little Shelter
 <br/>这里是一只数统菜鸡的避难所。</br>
 <br/>避难所外面都是大佬，菜鸡只好躲在这里瑟瑟发抖。</br>
 <br/>为了保护自己，这只菜鸡希望和大佬们联合起来，发起了[避难所保护计划](https://pan.baidu.com/s/1eNy2J9sb82L1CUA894cCTA)。</br>
@@ -9,7 +9,11 @@
 <br/>Hint 2: The Interval Length of Beta Function</br>
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
+<br/>**注**：</br>
+<br/>经济学-计量经济学和数学-回归分析课程内容相似，材料主要放在前者的文件夹中；</br>
+<br/>而数学-运筹学中的对策论与经济学-博弈论中的博弈论内容有所差别，故材料分开</br>
 <br/>保护计划更新记录：</br>
+<br/>20200706：计算机-正则表达式</br>
 <br/>20200705：计算机-算法 计算机-python</br>
 <br/>20200704：计算机-数据结构 计算机-算法</br>
 <br/>20200703：数学-数理统计 经济学-计量经济学</br>
