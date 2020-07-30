@@ -5,7 +5,7 @@
 <br/>可由于大佬们实在是太厉害了，因此菜鸡把计划内最关键的道具——光之密钥给弄丢了。</br>
 <br/>你能帮他找到密钥吗？</br>
 <br/>密钥由四个字符组成，仅包括小写字母和阿拉伯数字</br>
-<br/>Hint 1：First Character of Title in Markdown(Look down at your keyboard!)</br>
+<br/>Hint 1: First Character of Title in Markdown(Look down at your keyboard!)</br>
 <br/>Hint 2: The Interval Length of Beta Function</br>
 <br/>Hint 3: Money Multiplier</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
@@ -13,7 +13,7 @@
 <br/>经济学-计量经济学和数学-回归分析课程内容相似，材料主要放在前者的文件夹中；</br>
 <br/>而数学-运筹学中的对策论与经济学-博弈论中的博弈论内容有所差别，故材料分开</br>
 <br/>**保护计划更新记录**：</br>
-<br/>20200730：经济学-数理经济学</br>
+<br/>20200730：经济学-数理经济学 数学-多元统计分析</br>
 <br/>20200725：数学-非参数估计 数学-泛函分析</br>
 <br/>20200722：数学-时间序列分析</br>
 <br/>20200721：数学-时间序列分析</br>
