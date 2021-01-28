@@ -194,8 +194,10 @@
 <br/></br>
 <br/></br>
 ### 感谢您翻到了这里
-<br/>为了表示对您的感谢，以下是您应该知道的另一[计划](https://github.com/lib-pku/libpku)</br>
-<br/></br>
+<br/>为了表示对您的感谢，以下是您应该知道的其他计划</br>
+<br/>[厦门大学攻略大全](https://github.com/rogerchenfz/XMU-Helper)</br>
+<br/>[厦门大学经济学院统计系资源大全](https://github.com/rogerchenfz/XMU-STAT)</br>
+<br/>[北京大学课程资源共享计划](https://github.com/lib-pku/libpku)</br>
 <br/></br>
 <br/></br>
 <br/></br>
