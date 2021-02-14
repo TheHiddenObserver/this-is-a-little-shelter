@@ -203,6 +203,12 @@
 [厦门大学经济学院统计系资源大全](https://github.com/rogerchenfz/XMU-STAT)
 
 [北京大学课程资源共享计划](https://github.com/lib-pku/libpku)
+
+[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+
+[USTC学习资料](https://www.zhangjy9610.me/USTCdata-cn.html)
+
+[清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 <br/></br>
 <br/></br>
 <br/></br>
