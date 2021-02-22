@@ -7,7 +7,7 @@
 <br/>密钥由四个字符组成，仅包括小写字母和阿拉伯数字</br>
 <br/>Hint 1: First Character of Title in Markdown(Look down at your keyboard!)</br>
 <br/>Hint 2: The Interval Length of Beta Function</br>
-<br/>Hint 3: Money Multiplier</br>
+<br/>Hint 3: Money Multiplier (in Macroeconomics by Mankiw)</br>
 <br/>Hint 4: The Second Parameter of a Binomial Distribution</br>
 <br/>**注**：</br>
 <br/>经济学-计量经济学和数学-回归分析课程内容相似，材料主要放在前者的文件夹中；</br>
