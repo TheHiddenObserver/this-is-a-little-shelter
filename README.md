@@ -225,6 +225,16 @@
 
 [潜藏的计划](https://pan.baidu.com/s/1QnGdmIAWfxSRi98FgoYPsg) 提取码：lrfg
 
+[中山大学期末试卷](https://github.com/sysuexam/SYSU-Exam)
+
+[南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+
+[复旦大学课程资源](https://github.com/openFudan/fudan-coursera)
+
+[中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+
+[上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
+
 <br/></br>
 <br/></br>
 <br/></br>
