@@ -222,6 +222,9 @@
 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 [隐藏的计划](https://pan.baidu.com/s/1cquyieRSYmkPtXszbCZ-ug) 提取码：vro3
+
+[潜藏的计划](https://pan.baidu.com/s/1QnGdmIAWfxSRi98FgoYPsg) 提取码：lrfg
+
 <br/></br>
 <br/></br>
 <br/></br>
