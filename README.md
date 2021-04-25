@@ -1,5 +1,11 @@
 ## This Is A Little Shelter
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TheHiddenObserver/this-is-a-little-shelter)
+[![](https://img.shields.io/github/watchers/TheHiddenObserver/this-is-a-little-shelter.svg?style=flat)](https://github.com/TheHiddenObserver/this-is-a-little-shelter/watchers)
+[![](https://img.shields.io/github/stars/TheHiddenObserver/this-is-a-little-shelter.svg?style=flat)](https://github.com/TheHiddenObserver/this-is-a-little-shelter/stargazers)
+[![](https://img.shields.io/github/forks/TheHiddenObserver/this-is-a-little-shelter.svg?style=flat)](https://github.com/TheHiddenObserver/this-is-a-little-shelter/network/members)
+[![](https://img.shields.io/github/issues-pr-closed-raw/TheHiddenObserver/this-is-a-little-shelter.svg?style=flat)](https://github.com/TheHiddenObserver/this-is-a-little-shelter/pulls?q=is%3Apr+is%3Aclosed)
+![](https://img.shields.io/github/repo-size/TheHiddenObserver/this-is-a-little-shelter.svg?style=flat)
+
 <br/>这里是一只数统菜鸡的避难所。</br>
 <br/>避难所外面都是大佬，菜鸡只好躲在这里瑟瑟发抖。</br>
 <br/>为了保护自己，这只菜鸡希望和大佬们联合起来，发起了[避难所保护计划](https://pan.baidu.com/s/1eNy2J9sb82L1CUA894cCTA)。</br>
