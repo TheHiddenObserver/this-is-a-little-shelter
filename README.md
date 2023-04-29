@@ -318,6 +318,8 @@
 
 [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
 
+[北大数院学习指南](https://www.zhihu.com/pin/1542314995961872384)
+
 <br/></br>
 <br/></br>
 <br/></br>
